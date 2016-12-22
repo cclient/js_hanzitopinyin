@@ -1,5 +1,5 @@
 {
-  "name": "***no***",
+  "name": "js_hanzitopinyin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cclient/***no***.git"
+    "url": "https://github.com/cclient/js_hanzitopinyin.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cclient/***no***/issues"
+    "url": "https://github.com/cclient/js_hanzitopinyin/issues"
   },
-  "homepage": "https://github.com/cclient/***no***",
+  "homepage": "https://github.com/cclient/js_hanzitopinyin",
   "dependencies": {
   }
 }
